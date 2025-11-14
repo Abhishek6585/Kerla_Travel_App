@@ -1,6 +1,7 @@
 {
   "name": "kerala-travel-tracker",
   "version": "1.0.0",
+  "description": "Kerala Travel Tracker - Track trips and carbon footprint in God's Own Country",
   "private": true,
   "type": "module",
   "scripts": {
